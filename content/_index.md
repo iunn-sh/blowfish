@@ -1,5 +1,6 @@
 ---
 title: "Chū-iû Law Firm"
+date: 2023-04-25
 ---
 
 |     |     |
