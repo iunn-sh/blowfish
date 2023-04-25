@@ -3,7 +3,7 @@
 # https://blowfish.page/docs/getting-started/
 
 theme = "blowfish"
-# baseURL = "https://your_domain.com/"
+baseURL = "https://www.chu-iu.pro/"
 defaultContentLanguage = "en"
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
@@ -15,7 +15,7 @@ summaryLength = 0
 buildDrafts = false
 buildFuture = false
 
-googleAnalytics = "G-9RBELWQT9W"
+googleAnalytics = "G-GPFRL6RP4P"
 
 [imaging]
   anchor = 'Center'
