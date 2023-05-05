@@ -11,6 +11,8 @@ Official website https://www.chu-iu.pro/
 
 ## Local Development
 
+### Run Server
+
 ```bash
 # with docker
 docker run --rm -it \
@@ -22,6 +24,12 @@ docker run --rm -it \
 hugo server
 
 # visit http://localhost:1313 from browser
+```
+
+### Update
+
+```bash
+git submodule update --remote --merge
 ```
 
 ## Production Deployment
