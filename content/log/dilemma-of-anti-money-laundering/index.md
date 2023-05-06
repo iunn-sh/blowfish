@@ -6,4 +6,7 @@ description: "由國際趨勢與國際組織評鑑驅動的2016年洗錢防制�
 externalUrl: https://hdl.handle.net/11296/xvece8
 # slug: "dilemma-of-global-trend-and-local-practice-in-anti-money-laundering"
 # tags: ["criminal law", "thesis"]
+_build:
+  render: "false"
+  list: "local"
 ---
