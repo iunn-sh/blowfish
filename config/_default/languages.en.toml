@@ -10,7 +10,7 @@ logo = "img/logo_white.png"
 description = "Chū-iû Law Firm"
 copyright = "&copy; { year } [Chū-iû Law Firm](https://www.chu-iu.pro/)"
 
-dateFormat = "2014-03-18"
+dateFormat = "2006-01-02"
 
 [author]
   name = "楊琇惠"

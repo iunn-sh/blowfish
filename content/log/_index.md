@@ -3,7 +3,6 @@ title: "Log"
 description: "Records of published contents."
 
 cascade:
-  showDate: false
   showAuthor: false
   invertPagination: true
 ---
