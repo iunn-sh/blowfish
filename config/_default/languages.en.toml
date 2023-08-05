@@ -1,16 +1,17 @@
 languageCode = "en"
 languageName = "English"
-displayName = "EN"
-isoCode = "en"
 weight = 1
-rtl = false
-
 title = "自由法律事務所"
-logo = "img/logo_white.png"
-description = "Chū-iû Law Firm"
-copyright = "&copy; { year } [Chū-iû Law Firm](https://www.chu-iu.pro/)"
 
-dateFormat = "2006-01-02"
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2006-01-02"
+  logo = "img/logo_white.png"
+  # secondaryLogo = "img/secondary-logo.png"
+  description = "Chū-iû Law Firm"
+  copyright = "&copy; { year } [Chū-iû Law Firm](https://www.chu-iu.pro/)"
 
 [author]
   name = "楊琇惠"
