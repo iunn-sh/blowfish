@@ -19,6 +19,6 @@ title = "自由法律事務所"
   headline = "律師"
 #   bio = "A little bit about you"
   links = [
-    { link = "https://lawyerbc.moj.gov.tw/lawyer/0x236a7dc239adbdb3f933ab524d318a8f942ef7a9cd562252ccb463c00b10c3e2" },
+    { scale-balanced = "https://lawyerbc.moj.gov.tw/lawyer/0x236a7dc239adbdb3f933ab524d318a8f942ef7a9cd562252ccb463c00b10c3e2" },
     { linkedin = "https://tw.linkedin.com/in/jackie-b-yang" },
   ]
