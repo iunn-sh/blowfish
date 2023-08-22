@@ -6,7 +6,7 @@
 
 Official website https://www.chu-iu.pro/
 
-* Implementation of [nunocoracao / blowfish](https://github.com/nunocoracao/blowfish)
+* Implementation of [nunocoracao/blowfish](https://github.com/nunocoracao/blowfish)
 * Hosting on Github Pages
 
 ## Local Development
