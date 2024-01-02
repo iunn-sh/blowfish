@@ -11,9 +11,14 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
+  name = "Manual"
+  pageRef = "manual"
+  weight = 10
+
+[[main]]
   name = "Log"
   pageRef = "log"
-  weight = 10
+  weight = 20
 
 #[[main]]
 #  name = "Parent"
