@@ -13,7 +13,7 @@ _build:
 ---
 
 {{< mermaid >}}
-%%{init: {'theme':'dark'}}%%
+%%{init: {"theme":"dark", "fontFamily":["Helvetica Neue", "Helvetica", "Arial", "LiHei Pro", "Heiti TC", "Microsoft JhengHei", "sans-serif"]}}%%
 graph LR;
 A[依據]-->B[罰則];
 B-->C[證明]
