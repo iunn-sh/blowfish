@@ -1,7 +1,8 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "自由法律事務所"
+#  title = "自由法律事務所"
+title = "Chū-iû" # tmp
 
 [params]
   displayName = "EN"
@@ -11,7 +12,8 @@ title = "自由法律事務所"
   logo = "img/logo_white.png"
   # secondaryLogo = "img/secondary-logo.png"
   description = "Chū-iû Law Firm"
-  copyright = "&copy; { year } [Chū-iû Law Firm](https://www.chu-iu.pro/)"
+#  copyright = "&copy; { year } [Chū-iû Law Firm](https://www.chu-iu.pro/)"
+  copyright = "&copy; { year } [Chū-iû](https://www.chu-iu.pro/)"
 
 [author]
   name = "楊琇惠"
