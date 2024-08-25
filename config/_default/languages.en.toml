@@ -12,8 +12,8 @@ title = "自由" # tmp
   logo = "img/logo_white.png"
   # secondaryLogo = "img/secondary-logo.png"
   description = "Chū-iû Law Firm"
-#  copyright = "&copy; { year } [Chū-iû Law Firm](https://www.chu-iu.pro/)"
-  copyright = "&copy; { year } [Chū-iû](https://www.chu-iu.pro/)"
+#  copyright = "&copy; { year } [Chū-iû Law Firm](https://www.chu-iu.pro)"
+  copyright = "&copy; { year } [Chū-iû](https://www.chu-iu.pro)"
 
 [author]
   name = "楊琇惠"
@@ -23,4 +23,5 @@ title = "自由" # tmp
   links = [
     { scale-balanced = "https://lawyerbc.moj.gov.tw/lawyer/0x0b7b30c3092fa9ae4abdcbfc80a8be1a13268d760d4fb1d74f0362608acd34ab" },
     { linkedin = "https://www.linkedin.com/in/jackie-b-yang" },
+    { link = "https://www.fblaw.com.tw/people/jackie-yang" },
   ]
