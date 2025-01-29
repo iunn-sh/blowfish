@@ -15,7 +15,7 @@ title = "自由" # tmp
 #  copyright = "&copy; { year } [Chū-iû Law Firm](https://www.chu-iu.pro)"
   copyright = "&copy; { year } [Chū-iû](https://www.chu-iu.pro)"
 
-[author]
+[params.author]
   name = "楊琇惠"
   image = "img/initials_white.png"
   headline = "律師"
