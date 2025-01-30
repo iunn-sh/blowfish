@@ -6,7 +6,7 @@ description: "法律生活與司法人權 feat. 民間司法改革基金會（20
 summary: "法律生活與司法人權 feat. 民間司法改革基金會（2024.09.04文山社區大學、2024.09.19＋2024.11.07中和社區大學）。"
 externalUrl: "https://iunn-sh.github.io/infosec-data-protection"
 # slug: "infosec-data-protection"
-tags: ["information security", "personal data", "speech"]
+tags: ["information security", "personal data", "lecture"]
 _build:
   render: "false"
   list: "local"
