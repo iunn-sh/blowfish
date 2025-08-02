@@ -6,7 +6,7 @@ description: "法律生活與司法人權 feat. 民間司法改革基金會（20
 summary: "法律生活與司法人權 feat. 民間司法改革基金會（2025.03.19文山社區大學、2025.04.10新中和社區大學）。"
 externalUrl: "https://iunn-sh.github.io/ai-data-rights"
 # slug: "ai-data-rights"
-tags: ["ai", "data protection", "fundamental rights", "lecture"]
+tags: ["artificial intelligence", "data protection", "fundamental rights", "lecture"]
 _build:
   render: "false"
   list: "local"
