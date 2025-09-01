@@ -16,7 +16,7 @@ _build:
 
 | Icon | Meaning |
 | --- | --- |
-| {{< icon "sun" >}} | 勝訴/部分勝訴 |
+| {{< icon "sun" >}} | 勝訴／部分勝訴 |
 | {{< icon "moon" >}} | 敗訴 |
 
 ## 案件
