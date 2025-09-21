@@ -7,7 +7,7 @@ summary: "經手案件之確定裁定或判決。"
 # externalUrl: "https://jrf-tw.gitbooks.io/law_moot_court/content/3-4.html"
 slug: "case-history"
 tags: ["case"]
-_build:
+build:
   render: "false"
   list: "local"
 ---

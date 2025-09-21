@@ -7,7 +7,7 @@ summary: "法律生活與司法人權 feat. 民間司法改革基金會（2024.0
 externalUrl: "https://iunn-sh.github.io/infosec-data-protection"
 # slug: "infosec-data-protection"
 tags: ["information security", "data protection", "lecture"]
-_build:
+build:
   render: "false"
   list: "local"
 ---

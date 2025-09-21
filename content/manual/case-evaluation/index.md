@@ -7,7 +7,7 @@ summary: "案件之法律風險評估流程。"
 # externalUrl: "https://jrf-tw.gitbooks.io/law_moot_court/content/3-4.html"
 slug: "case-evaluation"
 tags: ["flowchart"]
-_build:
+build:
   render: "false"
   list: "local"
 ---

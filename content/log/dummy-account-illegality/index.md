@@ -7,7 +7,7 @@ summary: "提供人頭帳戶者是否該罰、應如何處罰，繼司法實務�
 externalUrl: "https://www.jrf.org.tw/articles/2292"
 # slug: "dummy-account-illegality"
 tags: ["criminal law", "opinion"]
-_build:
+build:
   render: "false"
   list: "local"
 ---

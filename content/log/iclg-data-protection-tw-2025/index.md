@@ -8,7 +8,7 @@ externalUrl: "https://iclg.com/practice-areas/data-protection-laws-and-regulatio
 # externalUrl: "https://web.archive.org/web/20250724011426/https://iclg.com/practice-areas/data-protection-laws-and-regulations/taiwan"
 # slug: "iclg-data-protection-tw-2025"
 tags: ["data protection", "book"]
-_build:
+build:
   render: "false"
   list: "local"
 ---

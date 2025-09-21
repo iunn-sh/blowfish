@@ -7,7 +7,7 @@ summary: "身為工程師，很習慣追求「正確」答案。然而這一天�
 externalUrl: "https://jrf-tw.gitbooks.io/law_moot_court/content/3-4.html"
 # slug: "incarnate-of-justice"
 tags: ["criminal law", "opinion"]
-_build:
+build:
   render: "false"
   list: "local"
 ---

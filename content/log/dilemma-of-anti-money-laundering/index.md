@@ -7,7 +7,7 @@ summary: "2016年洗錢防制法修正，開啟了新一波國內法適用的論
 externalUrl: "https://hdl.handle.net/11296/xvece8"
 # slug: "dilemma-of-global-trend-and-local-practice-in-anti-money-laundering"
 tags: ["criminal law", "thesis"]
-_build:
+build:
   render: "false"
   list: "local"
 ---

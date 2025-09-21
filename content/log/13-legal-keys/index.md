@@ -7,7 +7,7 @@ summary: "合著 feat. 寰瀛法律事務所（績效改善計畫之執行、私
 externalUrl: "https://www.fblaw.com.tw/insights/event-2025-2-12"
 # slug: "13-legal-keys-for-workplace-management"
 tags: ["labor law", "book"]
-_build:
+build:
   render: "false"
   list: "local"
 ---
