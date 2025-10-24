@@ -2,7 +2,7 @@ languageCode = "en"
 languageName = "English"
 weight = 1
 #  title = "自由法律事務所"
-title = "自由" # tmp
+title = "Pro ê 自由人" # tmp
 
 [params]
   displayName = "EN"
