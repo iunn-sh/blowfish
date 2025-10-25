@@ -1,9 +1,9 @@
 ---
-title: "YoyoBlack Walking Wolf: Walking Robot"
+title: "YoyoBlack Walking Wolf"
 date: 2010-01-14
 draft: false
-description: "Remote-controllable robot"
-summary: "Remote-controllable robot"
+description: "Remote-controllable walking robot"
+summary: "Remote-controllable walking robot"
 # externalUrl: "https://jrf-tw.gitbooks.io/law_moot_court/content/3-4.html"
 slug: "yoyoblack-walking-wolf"
 tags: ["robot", "mechanical engineering"]

@@ -1,5 +1,5 @@
 ---
-title: "TWaltz: Ball-shape robot"
+title: "TWaltz"
 date: 2011-03-14
 draft: false
 description: "Ball-shape robot"
