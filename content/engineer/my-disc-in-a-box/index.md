@@ -6,7 +6,7 @@ description: "Autonomous color-aiming frisbee thrower"
 summary: "Autonomous color-aiming frisbee thrower"
 # externalUrl: "https://jrf-tw.gitbooks.io/law_moot_court/content/3-4.html"
 slug: "my-disc-in-a-box"
-tags: ["programming", "arduino", "mechanical engineering", "design", "fabrication", "testing"]
+tags: ["programming", "arduino", "mechanical engineering", "design", "fabrication", "testing", "solidworks"]
 build:
   render: "false"
   list: "local"
