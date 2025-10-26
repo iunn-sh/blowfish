@@ -12,7 +12,7 @@ build:
   list: "local"
 ---
 
-Built an autonomous color-aiming frisbee thrower in a 4 members' team. Used wood, Aluminum, acrylic, and CMUcam. [[{{< icon "link" >}} website](http://cmumechatronics2013teamj.blogspot.com/)] [[{{< icon "link" >}} document](TeamJ_FinalReport.pdf)]
+Built an autonomous color-aiming frisbee thrower in a 4 members' team. Used wood, Aluminum, acrylic, and CMUcam. [[{{< icon "blogger" >}} website](http://cmumechatronics2013teamj.blogspot.com/)] [[{{< icon "link" >}} document](TeamJ_FinalReport.pdf)]
 
 {{< gallery >}}
   <img src="frisbee_logo.png" class="grid-w100" />
