@@ -1,6 +1,6 @@
 ![logo](https://raw.githubusercontent.com/iunn-sh/blowfish/main/content/feature-logo-card.png)
 
-![Hugo](https://img.shields.io/badge/Hugo-0.152.1-FF4088?style=for-the-badge&logo=hugo&logoColor=white) ![GitHub deployments](https://img.shields.io/github/deployments/iunn-sh/blowfish/github-pages?logo=github&style=for-the-badge) ![Website](https://img.shields.io/website?logo=googledomains&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fwww.chu-iu.pro)
+![Hugo](https://img.shields.io/badge/Hugo-0.152.2-FF4088?style=for-the-badge&logo=hugo&logoColor=white) ![GitHub deployments](https://img.shields.io/github/deployments/iunn-sh/blowfish/github-pages?logo=github&style=for-the-badge) ![Website](https://img.shields.io/website?logo=googledomains&logoColor=white&style=for-the-badge&url=https%3A%2F%2Fwww.chu-iu.pro)
 
 # Chū-iû Law Firm
 
