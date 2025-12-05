@@ -18,11 +18,11 @@ title = "Pro ê 自由人" # tmp
 [params.author]
   name = "楊琇惠"
   image = "img/initials_white.png"
-  headline = "律師"
+  headline = "Iûⁿ Siù-huī"
 #  bio = "A little bit about you"
   links = [
     { scale-balanced = "https://lawyerbc.moj.gov.tw/lawyer/0x87a03c790ee0a891e8a6acee41d9f9bb35e2514732399f739f2a4c7d7dae32b0" },
-    { location-dot = "https://www.fblaw.com.tw/people/jackie-yang" },
+    # { location-dot = "https://www.fblaw.com.tw/people/jackie-yang" },
     { linkedin = "https://www.linkedin.com/in/jackie-b-yang" },
     { email = "mailto:ish@chu-iu.pro" },
     # { phone = "tel:+886-2-2396-5918" },
