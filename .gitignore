@@ -1,6 +1,10 @@
 # https://github.com/github/gitignore/blob/main/community/Golang/Hugo.gitignore
+# https://discourse.gohugo.io/t/the-best-gitignore-for-hugo/20283/6
 
 .DS_Store
+node_modules
+dist
+tmp
 
 # Generated files by hugo
 /public/
