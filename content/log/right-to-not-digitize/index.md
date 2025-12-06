@@ -18,7 +18,17 @@ build:
 3. Data Minimization 資料最小化
 4. Meaningful Alternative 替代選擇權
 
-[[{{< icon "github" >}} presentation - source](https://github.com/iunn-sh/right-to-not-digitize)] [[{{< icon "link" >}} presentation - live](https://iunn-sh.github.io/right-to-not-digitize)] [[{{< icon "pencil" >}} observation](https://www.jrf.org.tw/articles/3093)]
+{{< button href="https://github.com/iunn-sh/right-to-not-digitize" target="_blank" >}}
+{{< icon "github" >}} presentation - source
+{{< /button >}} 
+&nbsp;
+{{< button href="https://iunn-sh.github.io/right-to-not-digitize" target="_blank" >}}
+{{< icon "link" >}} presentation - live
+{{< /button >}}
+&nbsp;
+{{< button href="https://www.jrf.org.tw/articles/3093" target="_blank" >}}
+{{< icon "pencil" >}} observation
+{{< /button >}}
 
 {{< github repo="iunn-sh/right-to-not-digitize" showThumbnail=true >}}
 

@@ -12,7 +12,15 @@ build:
   list: "local"
 ---
 
-Built composite wheels for Astrobotic Lunar Excavator Polaris in a 4 members' team. Used Kevlar and carbon fiber. [[{{< icon "link" >}} document](wheelPaper.pdf)] [[{{< icon "link" >}} presentation](wheelPPT.pdf)]
+Built composite wheels for Astrobotic Lunar Excavator Polaris in a 4 members' team. Used Kevlar and carbon fiber.
+
+{{< button href="wheelPaper.pdf" target="_blank" >}}
+{{< icon "link" >}} document
+{{< /button >}} 
+&nbsp;
+{{< button href="wheelPPT.pdf" target="_blank" >}}
+{{< icon "link" >}} presentation
+{{< /button >}} 
 
 {{< gallery >}}
   <img src="feature-P1120294.jpg" class="grid-w100" />
