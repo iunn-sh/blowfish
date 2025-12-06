@@ -12,7 +12,15 @@ build:
   list: "local"
 ---
 
-Developed a fish racing game in a 7 members' team. Compete with AI players (1P) or/and your friends (2P). Used C++ and OpenGL. [[{{< icon "link" >}} website](http://dontbedinner.weebly.com/)] [[{{< icon "link" >}} presentation](DBD_slidesPDF.pdf)]
+Developed a fish racing game in a 7 members' team. Compete with AI players (1P) or/and your friends (2P). Used C++ and OpenGL.
+
+{{< button href="http://dontbedinner.weebly.com" target="_blank" >}}
+{{< icon "link" >}} website
+{{< /button >}} 
+&nbsp;
+{{< button href="DBD_slidesPDF.pdf" target="_blank" >}}
+{{< icon "link" >}} presentation
+{{< /button >}} 
 
 {{< gallery >}}
   <img src="feature-open1.jpg" class="grid-w100" />

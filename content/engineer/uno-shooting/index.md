@@ -12,7 +12,12 @@ build:
   list: "local"
 ---
 
-Developed a mouse-based shooting game with UNO-like playing rule. Combo  as many as you can within a minute. Used Flash & ActionScript. [[{{< icon "link" >}} presentation](UNOshooting_slide.pdf)]
+Developed a mouse-based shooting game with UNO-like playing rule. Combo  as many as you can within a minute. Used Flash & ActionScript.
+
+{{< button href="UNOshooting_slide.pdf" target="_blank" >}}
+{{< icon "link" >}} presentation
+{{< /button >}} 
+&nbsp;
 
 {{< gallery >}}
   <img src="feature-UNO_during.jpg" class="grid-w100" />

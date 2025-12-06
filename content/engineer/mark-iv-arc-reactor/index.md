@@ -12,7 +12,12 @@ build:
   list: "local"
 ---
 
-An acrylic replica of Ironman Mark IV Arc Reactor designed using Solidworks. [[{{< icon "github" >}} file](https://github.com/iunn-sh/mark-iv-arc-reactor)]
+An acrylic replica of Ironman Mark IV Arc Reactor designed using Solidworks. 
+
+{{< button href="https://github.com/iunn-sh/mark-iv-arc-reactor" target="_blank" >}}
+{{< icon "github" >}} source file
+{{< /button >}} 
+&nbsp;
 
 {{< gallery >}}
   <img src="feature-P1010614.jpg" class="grid-w100" />

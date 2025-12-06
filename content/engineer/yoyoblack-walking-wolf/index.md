@@ -12,7 +12,7 @@ build:
   list: "local"
 ---
 
-Designed & Built a remote-controllable robot inspired by HEXBUG in a 5 members’ team, with basic functions including walking, turning, climbing gentle slope.
+Designed & Built a remote-controllable robot inspired by HEXBUG in a 5 members' team, with basic functions including walking, turning, climbing gentle slope.
 
 {{< gallery >}}
   <img src="feature-overview.png" class="grid-w100" />

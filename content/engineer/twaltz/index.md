@@ -12,7 +12,12 @@ build:
   list: "local"
 ---
 
-Built a ball-shape robot driven by 2 perpendicular motors in a 4 members' team. Used acrylic and plastic balls. [[{{< icon "link" >}} document](TWaltz.pdf)]
+Built a ball-shape robot driven by 2 perpendicular motors in a 4 members' team. Used acrylic and plastic balls.
+
+{{< button href="TWaltz.pdf" target="_blank" >}}
+{{< icon "link" >}} document
+{{< /button >}} 
+&nbsp;
 
 {{< gallery >}}
   <img src="feature-DSC06223.jpg" class="grid-w100" />

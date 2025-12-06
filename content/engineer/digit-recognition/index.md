@@ -12,7 +12,15 @@ build:
   list: "local"
 ---
 
-Implement machine learning to recognize hand-written digits in a 5 members' team. Best result training using Simple Convolutional Models (LeNet-5-like convolutional). [[{{< icon "github" >}} source code](https://github.com/iunn-sh/digit-recognition)] [[{{< icon "link" >}} document](https://github.com/iunn-sh/digit-recognition-document)]
+Implement machine learning to recognize hand-written digits in a 5 members' team. Best result training using Simple Convolutional Models (LeNet-5-like convolutional).
+
+{{< button href="https://github.com/iunn-sh/digit-recognition" target="_blank" >}}
+{{< icon "github" >}} source code
+{{< /button >}} 
+&nbsp;
+{{< button href="https://github.com/iunn-sh/digit-recognition-document" target="_blank" >}}
+{{< icon "github" >}} document
+{{< /button >}} 
 
 {{< gallery >}}
   <img src="feature-00601459.png" class="grid-w100" />

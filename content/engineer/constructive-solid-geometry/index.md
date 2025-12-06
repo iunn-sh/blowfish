@@ -12,7 +12,15 @@ build:
   list: "local"
 ---
 
-Developed a program to solve CSG problem by binary space partitioning in a 3 members' team. Elected as the most impressing project of the semester. Used C++ and OpenGL. [[{{< icon "link" >}} document](CSG_report.pdf)] [[{{< icon "link" >}} presentation](CSG_slides.pdf)]
+Developed a program to solve CSG problem by binary space partitioning in a 3 members' team. Elected as the most impressing project of the semester. Used C++ and OpenGL.
+
+{{< button href="CSG_report.pdf" target="_blank" >}}
+{{< icon "link" >}} document
+{{< /button >}} 
+&nbsp;
+{{< button href="CSG_slides.pdf" target="_blank" >}}
+{{< icon "link" >}} presentation
+{{< /button >}} 
 
 {{< gallery >}}
   <img src="feature-CSG_result2.png" class="grid-w100" />

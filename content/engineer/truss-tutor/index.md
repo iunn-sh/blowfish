@@ -12,7 +12,12 @@ build:
   list: "local"
 ---
 
-Developed a Truss Tutor software, which helps students to learn statics of truss with error checker and hints in the software. Collaborated with another member. Used C++ and QT. [[{{< icon "link" >}} extended article](https://peer.asee.org/20304)]
+Developed a Truss Tutor software, which helps students to learn statics of truss with error checker and hints in the software. Collaborated with another member. Used C++ and QT.
+
+{{< button href="https://peer.asee.org/20304" target="_blank" >}}
+{{< icon "link" >}} extended article
+{{< /button >}} 
+&nbsp;
 
 {{< gallery >}}
   <img src="feature-trusstutor_screenshot.png" class="grid-w100" />

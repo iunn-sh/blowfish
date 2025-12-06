@@ -12,7 +12,15 @@ build:
   list: "local"
 ---
 
-Developed a sports game predicting system in a 2 members' team. Trained model with 10-year statistics using LibSVM in Matlab. [[{{< icon "link" >}} document](nba_champ_predict.pdf)] [[{{< icon "link" >}} presentation](nba_champ_2012.zip)]
+Developed a sports game predicting system in a 2 members' team. Trained model with 10-year statistics using LibSVM in Matlab.
+
+{{< button href="nba_champ_predict.pdf" target="_blank" >}}
+{{< icon "link" >}} document
+{{< /button >}} 
+&nbsp;
+{{< button href="nba_champ_2012.zip" target="_blank" >}}
+{{< icon "link" >}} presentation
+{{< /button >}} 
 
 {{< gallery >}}
   <img src="feature-cross_acc.png" class="grid-w100" />
