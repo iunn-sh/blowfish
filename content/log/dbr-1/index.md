@@ -2,8 +2,8 @@
 title: "Digital Bill of Rights數位權利法案：由下而上一起打造數位自由的法制基礎建設"
 date: 2024-08-03
 draft: false
-description: "開源政策 feat. 民間司法改革基金會（2024.08.03 COSCUP）。"
-summary: "開源政策 feat. 民間司法改革基金會（2024.08.03 COSCUP）。"
+description: "開源政策 feat. 民間司法改革基金會（COSCUP）。"
+summary: "開源政策 feat. 民間司法改革基金會（COSCUP）。"
 # externalUrl: "https://iunn-sh.github.io/right-to-not-digitize"
 slug: "dbr-1"
 tags: ["privacy", "data protection", "workshop"]
