@@ -2,8 +2,8 @@
 title: "Core-material Behavior of Multi-cavity Co-injection"
 date: 2015-02-27
 draft: false
-description: "Helper to Master Statics of Truss"
-summary: "Helper to Master Statics of Truss"
+description: "Dynamic behavior of core-material penetration in a co-injection multi-cavity molding"
+summary: "ynamic behavior of core-material penetration in a co-injection multi-cavity molding"
 # externalUrl: "https://jrf-tw.gitbooks.io/law_moot_court/content/3-4.html"
 slug: "multi-cavity-co-injection"
 tags: ["simulation", "mechanical engineering", "cae", "moldex3d"]
