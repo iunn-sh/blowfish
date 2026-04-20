@@ -6,7 +6,7 @@ description: "人權法治與司法實務 feat. 民間司法改革基金會（�
 summary: "人權法治與司法實務 feat. 民間司法改革基金會（成功高級中學）。"
 externalUrl: "https://iunn-sh.github.io/legal-profession-sketch"
 # slug: "legal-profession-sketch"
-tags: ["lawyer", "lecture"]
+tags: ["legal profession", "lecture"]
 build:
   render: "false"
   list: "local"
