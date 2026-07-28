@@ -24,6 +24,13 @@ build:
 
 {{< timeline >}}
 
+{{< timelineItem icon="cloud" header="臺灣高等法院115勞抗15民事裁定" badge="定暫時狀態處分" subheader="2026.04.30" >}}
+<ol>
+  <li>抗告駁回。</li>
+  <li>抗告訴訟費用由抗告人負擔。</li>
+</ol>
+{{< /timelineItem >}}
+
 {{< timelineItem icon="cloud" header="臺灣臺北地院113重訴936民事判決" badge="損害賠償等" subheader="2025.06.26" >}}
 <ol>
   <li>原告之訴及假執行之聲請均駁回。</li>
