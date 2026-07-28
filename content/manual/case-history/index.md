@@ -1,6 +1,6 @@
 ---
 title: "歷經裁判"
-date: 2025-08-28
+date: 2026-07-28
 draft: false
 description: "經手案件之確定裁定或判決。"
 summary: "經手案件之確定裁定或判決。"
