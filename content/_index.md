@@ -7,4 +7,6 @@ date: 2023-04-25
 副秘書長 [{{< icon "location-dot" >}} 全國律師聯合會](https://www.twba.org.tw/figure/secretariat)
 <br>
 執行委員 [{{< icon "location-dot" >}} 民間司法改革基金會](https://www.jrf.org.tw/about)
+<br>
+職場霸凌調查專業人士 [{{< icon "location-dot" >}} 勞動部職安署](https://etms.osha.gov.tw/wbie/ExpertSearch/SearchIndex)
 
