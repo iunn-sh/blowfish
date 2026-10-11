@@ -22,10 +22,16 @@
   weight = 10
 
 [[main]]
+  name = "Talk"
+  pageRef = "Talk"
+  parent = "Lawyer"
+  weight = 20
+
+[[main]]
   name = "Log"
   pageRef = "log"
   parent = "Lawyer"
-  weight = 20
+  weight = 30
 
 [[main]]
   name = "Engineer"
