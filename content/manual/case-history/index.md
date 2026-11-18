@@ -17,7 +17,7 @@ build:
 | Icon | Meaning |
 | --- | --- |
 | {{< icon "moon" >}} | 勝訴 |
-| {{< icon "cloud-moon" >}} | 勝訴／部分勝訴 |
+| {{< icon "cloud-moon" >}} | 部分勝訴 |
 | {{< icon "cloud" >}} | 敗訴 |
 
 ## 案件
